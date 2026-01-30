@@ -4,7 +4,7 @@ Data Science and Big Data Technology Undergraduate with a strong interest in **D
 📊 Focused on turning raw data into actionable insights to support decision-making.  
 🧠 Enjoy working with structured data, identifying patterns, and communicating results clearly. 
 
-**Languages:** Python, SQL  
+- **Languages:** Python, SQL  
 - **Data Analysis:** pandas, NumPy  
 - **Business Intelligence:** Power BI (data modeling, dashboards, DAX basics)  
 - **Databases:** MySQL
