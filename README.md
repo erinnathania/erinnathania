@@ -11,7 +11,7 @@ Data Science and Big Data Technology Undergraduate with a strong interest in **D
 - **Visualization:** Power BI, matplotlib  
 - **Tools:** Jupyter Notebook, GitHub, Excel
 
-**Currently Learning: **
+**Currently Learning:**
 - Advanced SQL for analytics  
 - Data modeling and optimization  
 - Business-focused data storytelling  
