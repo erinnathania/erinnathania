@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Erin! 👋
 
 <!--
-**erinnathania/erinnathania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science and Big Data Technology Undergraduate with a strong interest in **Data Analytics** and **Business Intelligence**  
+📊 Focused on turning raw data into actionable insights to support decision-making.  
+🧠 Enjoy working with structured data, identifying patterns, and communicating results clearly. 
 
-Here are some ideas to get you started:
+**Languages:** Python, SQL  
+- **Data Analysis:** pandas, NumPy  
+- **Business Intelligence:** Power BI (data modeling, dashboards, DAX basics)  
+- **Databases:** MySQL
+- **Visualization:** Power BI, matplotlib  
+- **Tools:** Jupyter Notebook, GitHub, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Currently Learning: **
+- Advanced SQL for analytics  
+- Data modeling and optimization  
+- Business-focused data storytelling  
+
+**🔗 Connect with Me**
+- **LinkedIn:** [https://www.linkedin.com/in/erin-nathania-susanto-18771a286/]
+
 -->
